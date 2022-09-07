@@ -4,4 +4,4 @@ NPM     : 2106751833
 
 Kelas   : D
 
-Hobi    : membaca
+Hobi    : menggambar
